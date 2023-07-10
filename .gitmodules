@@ -4,3 +4,6 @@
 [submodule "Libft"]
 	path = Libft
 	url = https://github.com/martinthonon/Libft.git
+[submodule "Printf"]
+	path = Printf
+	url = https://github.com/martinthonon/Printf.git
