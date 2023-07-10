@@ -7,3 +7,6 @@
 [submodule "Printf"]
 	path = Printf
 	url = https://github.com/martinthonon/Printf.git
+[submodule "Get_next_line"]
+	path = Get_next_line
+	url = https://github.com/martinthonon/gnl.git
