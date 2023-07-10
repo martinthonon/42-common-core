@@ -13,9 +13,6 @@
 [submodule "FDF"]
 	path = FDF
 	url = https://github.com/martinthonon/fdf.git
-[submodule "pipex"]
-	path = pipex
-	url = https://github.com/martinthonon/pipex.git
 [submodule "Pipex"]
 	path = Pipex
 	url = https://github.com/martinthonon/pipex.git
