@@ -10,3 +10,6 @@
 [submodule "Get_next_line"]
 	path = Get_next_line
 	url = https://github.com/martinthonon/gnl.git
+[submodule "FDF"]
+	path = FDF
+	url = https://github.com/martinthonon/fdf.git
