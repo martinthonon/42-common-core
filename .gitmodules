@@ -1,6 +1,6 @@
 [submodule "42-common-core"]
 	path = 42-common-core
-	url = https://github.com/martinthonon/Libft.git
+	url = https://github.com/martinthonon/42-common-core.git
 [submodule "Libft"]
 	path = Libft
 	url = https://github.com/martinthonon/Libft.git
