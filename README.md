@@ -7,4 +7,5 @@
 | Pipex     | 100      |
 | FDF       | 120      |
 | Push_swap | 84       |
-| Philo     | WIP      |
+| Philo     | 100      |
+| Mshell    | WIP      |
