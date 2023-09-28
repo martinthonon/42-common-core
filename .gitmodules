@@ -19,6 +19,3 @@
 [submodule "Push_swap"]
 	path = Push_swap
 	url = https://github.com/martinthonon/push_swap.git
-[submodule "Philosophers"]
-	path = Philosophers
-	url = https://github.com/martinthonon/philosophers.git
