@@ -8,4 +8,4 @@
 | FDF       | 120      |
 | Push_swap | 84       |
 | Philo     | 100      |
-| Mshell    | WIP      |
+| Mshell    | 101      |
