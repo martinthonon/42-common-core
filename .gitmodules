@@ -22,3 +22,6 @@
 [submodule "Philo"]
 	path = Philo
 	url = https://github.com/martinthonon/philosophers.git
+[submodule "minishell"]
+	path = minishell
+	url = git@github.com:leaks-labs/minishell.git
