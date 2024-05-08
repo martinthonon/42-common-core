@@ -22,3 +22,9 @@
 [submodule "Philo"]
 	path = Philo
 	url = https://github.com/martinthonon/philosophers.git
+[submodule "Minishell"]
+	path = Minishell
+	url = https://github.com/leaks-labs/minishell.git
+[submodule "Cub3d"]
+	path = Cub3d
+	url = https://github.com/leaks-labs/cub3D.git
