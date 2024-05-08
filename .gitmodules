@@ -28,3 +28,6 @@
 [submodule "Cub3d"]
 	path = Cub3d
 	url = https://github.com/leaks-labs/cub3D.git
+[submodule "CPP"]
+	path = CPP
+	url = https://github.com/martinthonon/cpp.git
